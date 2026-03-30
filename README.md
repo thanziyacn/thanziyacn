@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi , I'm Thanziya C N👋
+   First Year EEE Student 
+   Learning Python & Arduino 
+   Interested in Embedded Systems & Real-Worlg Projects
 
-<!--
-**thanziyacn/thanziyacn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ## Projects 
+   - Arduino Projects (Jnana Bot )
+   - Python Basics (Mini Programs )
+   - Number Guessing Game
+     
+   ## Currently Learning
+   - Python
+   - Git & GitHub
+   - Probelm Solving
+   - Core EEE Concepts
 
-Here are some ideas to get you started:
+     ## Goal
+     To become a skilled Electrical Engineer by mastering core subjects (GATE)
+      and contributing to open-source (GSoC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+     _ _ _ _ _ _
+      Always learning, always buliding ....                                        
