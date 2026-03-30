@@ -1,6 +1,6 @@
 ## Hi , I'm Thanziya C N👋
-   First Year EEE Student 
-   Learning Python & Arduino 
+   First Year EEE Student |
+   Learning Python & Arduino | 
    Interested in Embedded Systems & Real-Worlg Projects
 
    ## Projects 
