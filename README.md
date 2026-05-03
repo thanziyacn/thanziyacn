@@ -1,7 +1,7 @@
 ## Hi , I'm Thanziya C N👋
    First Year EEE Student |
    Learning Python & Arduino | 
-   Interested in Embedded Systems & Real-Worlg Projects.
+   Interested in Embedded Systems & Real-World Projects.
 
    ## Projects 
    - Arduino Projects (Jnana Bot )
