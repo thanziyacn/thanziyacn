@@ -1,6 +1,6 @@
 ## Hi , I'm Thanziya C N👋
-   First Year EEE Student |
-   Learning Python & Arduino | 
+    EEE  Undergraduate |
+   Learning Embedded C  & Arduino | 
    Interested in Embedded Systems & Real-World Projects.
 
    ## Projects 
@@ -9,7 +9,7 @@
    - Number Guessing Game
      
    ## Currently Learning
-   - Python
+   - Embedded C
    - Git & GitHub
    - Probelm Solving
    - Core EEE Concepts
