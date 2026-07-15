@@ -1,6 +1,6 @@
 ## Hi , I'm Thanziya C N👋
     EEE  Undergraduate |
-   Learning Embedded C  & Arduino | 
+   Learning C , c++ , Embedded C  & Arduino | 
    Interested in Embedded Systems & Real-World Projects.
 
    ## Projects 
