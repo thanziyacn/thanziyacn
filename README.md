@@ -4,15 +4,18 @@
    Interested in Embedded Systems & Real-World Projects.
 
    ## Projects 
-   - Arduino Projects (Jnana Bot )
+   - Arduino Projects 
+   - Janna bot
+   - Smart non invasive anemia detection using the ppg signals.
    - Python Basics (Mini Programs )
-   - Number Guessing Game
+     
      
    ## Currently Learning
    - Embedded C
    - Git & GitHub
    - Probelm Solving
    - Core EEE Concepts
+   - Python 
 
      ## Goal
      To become a skilled Electrical Engineer by mastering core subjects (GATE)
