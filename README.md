@@ -17,8 +17,6 @@ problem solving.
 
 ## Programming & Tools
 
-- C
-- Python
 - Embedded C
 - Arduino
 - Git & GitHub
