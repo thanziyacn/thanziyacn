@@ -21,6 +21,7 @@ systems work through hands-on experimentation and problem solving.
 
 - C / Embedded C
 - Arduino IDE
+- MATLAB ONramp
 - Python
 - Git & GitHub
 - VS Code
@@ -37,7 +38,7 @@ systems work through hands-on experimentation and problem solving.
   - Sensors | Microcontrollers | Serial Communication
 
 ## Currently Learning
-
+-MATLAB Onramp
 - LTspice – Circuit Simulation & Analysis
 - Analog Electronics
 - Microcontrollers & Embedded Systems
